@@ -1,0 +1,30 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/marble_s.png",
+            "title": "Marble Solitaire",
+            "description": "Java",
+            "url": "https://github.com/kristenliuu/coursework_projects/tree/main/marble_solitaire"
+        },
+        {
+            "cover": "/portfolio/calculate.png",
+            "title": "Calculator",
+            "description": "Assembly",
+            "url": "https://github.com/kristenliuu/coursework_projects/tree/main/calculator_assembly"
+        },
+        {
+            "cover": "/portfolio/password_gen.png",
+            "title": "Password Generator",
+            "description": "Python",
+            "url": "https://github.com/kristenliuu/coursework_projects/tree/main/password_generator"
+        },
+        {
+            "cover": "/portfolio/personal_web.png",
+            "title": "Personal Website",
+            "description": "React, CSS",
+            "url": "https://github.com/kristenliuu/coursework_projects/tree/main/password_generator"
+        }
+
+        
+    ]
+}
