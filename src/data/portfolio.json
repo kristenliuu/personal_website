@@ -8,7 +8,7 @@
         },
         {
             "cover": "/portfolio/calculate.png",
-            "title": "Calculator",
+            "title": "Basic Calculator",
             "description": "Assembly",
             "url": "https://github.com/kristenliuu/coursework_projects/tree/main/calculator_assembly"
         },
@@ -24,7 +24,6 @@
             "description": "React, CSS",
             "url": "https://github.com/kristenliuu/coursework_projects/tree/main/password_generator"
         }
-
         
     ]
 }

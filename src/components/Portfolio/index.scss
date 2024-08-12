@@ -24,6 +24,7 @@
         height: 400px;
         overflow: hidden;
         border-radius: 10px;
+        border: 2px solid #81737B;
         max-width: calc(25% - 10px);
     
         .portfolio-image {
@@ -44,7 +45,7 @@
             background: linear-gradient(
                 180deg,
                 rgba(203, 183, 183, 0) 0,
-                rgba(117, 109, 109, 0.792)
+                rgb(75, 68, 68, 0.792)
             );
             bottom: -70px;
         }
@@ -89,7 +90,8 @@
 
         &:after {
             content: "";
-            background: linear-gradient(180deg, #ca779e, #9c9797ca);
+            background: linear-gradient(180deg, #965f79, #6a6060ca);
+            //A5738A
             position: absolute;
             left: 0;
             right: 0;

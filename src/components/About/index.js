@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngular, faGithub, faJava, faJsSquare, faPython, faReact } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
+import picturesData from '../../data/pictures.json'
 
 const About = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -14,6 +15,25 @@ const About = () => {
         }, 3000)
         return () => clearTimeout(timer)
         }, []) 
+
+    const renderPictures = (pictures) => {
+        return (
+            <div className="images-container2">
+                {
+                    pictures.map((port, idx) => {
+                        return (
+                            <div className="image-box" key={idx}>
+                                <img 
+                                src= {port.cover}
+                                alt= {port.description}
+                                className="pictures-image"/>
+                            </div>
+                        )
+                    })
+                }
+            </div>
+        )
+    }
 
     return (
         <>
@@ -82,8 +102,9 @@ const About = () => {
                         <FontAwesomeIcon icon={faGithub} color="#717171"/>
                     </div>
                 </div>
-
             </div>
+
+            <div>{renderPictures(picturesData.pictures)}</div>
         </div>
         <Loader type="ball-pulse" />
         </> 
