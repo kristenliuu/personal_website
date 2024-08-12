@@ -4,25 +4,6 @@
     position: absolute;
 }
 
-.top-tags {
-    bottom: auto;
-    top: 50px;
-}
-
-.tags {
-    color: #52494D;
-    opacity: 0.6;
-    position: absolute;
-    bottom: 50px;
-    left: 120px;
-    font-size: 18px;
-    font-family: 'La Belle Aurore';
-}
-
-.bottom-tag-html {
-    margin-left: -20px;
-}
-
 .container {
     width: 100%;
     will-change: contents;
@@ -97,6 +78,4 @@
             color: #B991A3;
         }
     }
-
-
 }

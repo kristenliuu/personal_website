@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./index.scss";
 import Loader from "react-loaders";
 import AnimatedLetters from "../AnimatedLetters";
-import portfolioData from '../../data/portfolio.json'
+import portfolioData from '../../data/portfolio.json';
 
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -38,7 +38,6 @@ const Portfolio = () => {
                         })
                     }
                 </div>
-
             )
         };
 
@@ -57,7 +56,6 @@ const Portfolio = () => {
             </div>
             <Loader type="ball-pulse" />
         </>
-        
         );
 }
 
