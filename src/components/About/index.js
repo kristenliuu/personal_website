@@ -1,8 +1,8 @@
 import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAngular, faGithub, faJava, faJsSquare, faPython, faReact } from '@fortawesome/free-brands-svg-icons'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faAngular, faGithub, faJava, faJsSquare, faPython, faReact } from '@fortawesome/free-brands-svg-icons'
 import Loader from 'react-loaders'
 import picturesData from '../../data/pictures.json'
 
@@ -47,41 +47,23 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I am from Palo Alto, California and I currently go to school in Boston, Massachusetts.
-                </p>
-                <p>
-                    I am a fourth-year student at Northeastern University, pursuing a BS in Computer 
+                    I am a fourth year student at Northeastern University, pursuing a BS in Computer 
                     Science with a concentration in Artificial Intelligence and a minor in Musical Theatre.
                 </p>
                 <p>
-                    At Northeastern University, I have completed the following relevant courses:
-                    Machine Learning and Data Mining 1, Object-Oriented Design, Algorithms and Data, Theory of Computation,
-                    Computer Systems, Mathematics of Data Models, Database Design, Foundations of Cybersecurity.
+                    I am from Palo Alto, California and some of my hobbies include running, singing, learning new instruments, traveling, and baking.
+                    I also love exploring new hiking trails while I travel. I enjoy running for fun, but I also like running in races! I also like
+                    to try out fun and new recipes and bake tasty treats for my friends and family. I used to act in plays and musicals at my local theatre, which
+                    is where I discovered a love for music and singing.
                 </p>
                 <p>
-                    I completed a co-op/internship as a Data Engineering Co-op at Abiomed, part of Johnson&Johnson MedTech. In this position, I developed comprehensive test scripts to 
-                    validate the functionality and performance of UI elements and managed test cases, requirements and other documentation,
-                    enhanced test quality through the implementation of end-to-end testing in Cypress to automate test cases, developed front-end
-                    web-based components using Angular, enhancing the user experience and interface design, and collaborated with cross-functional 
-                    teams to identify, report, and resolve software defects, enhancing the overall product quality.
-                </p>
-                <p>
-                    I was a Teaching Assistant for the undergraduate course Mathematics of Data Models where I taught and clarified concepts for 400+ students in statistics, linear
-                    algebra, and other concepts pertaining to machine learning, evaluated and provided detailed feedback for students’ assignments and assessments weekly, and held 
-                    weekly office hour sessions for one-on-one tutoring to aid students in course material. In the upcoming semester, I will be a Teaching Assistant for the course Machine
-                    Learning and Data Mining 1.
-                </p>
-                <p>
-                    Through my coursework and previous experiences, I am proficient in Java, Python, JavaScript, Angular, 
-                    Assembly, C, Git, Latex, and Racket. Through the process of creating this website, I am learning
-                    React and CSS.
-                </p>
-                <p>
-                    Some of my hobbies include running, singing, learning new instruments, traveling, and baking!
+                    I have a strong technical background, excellent communication skills, and creative problem-solving skills. 
+                    I am highly motivated to take on new challenges and make a meaningful contribution in the tech field as I 
+                    continue to expand my skillset.
                 </p>
             </div>
 
-            <div className='stage-cube-cont'>
+            {/* <div className='stage-cube-cont'>
                 <div className='cubespinner'>
                     <div className='face1'>
                         <FontAwesomeIcon icon={faJava} color="#5382A1"/>
@@ -102,7 +84,7 @@ const About = () => {
                         <FontAwesomeIcon icon={faGithub} color="#717171"/>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
             <div>{renderPictures(picturesData.pictures)}</div>
         </div>

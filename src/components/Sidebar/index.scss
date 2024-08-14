@@ -56,7 +56,7 @@
                 &:after {
                     content: '';
                     font-size: 16px;
-                    letter-spacing: 2px;
+                    letter-spacing: 0.5px;
                     position: absolute;
                     bottom: 0;
                     display: block;
@@ -82,6 +82,12 @@
             a.portfolio-link {
                 &:after {
                     content: 'portfolio';
+                }
+            }
+
+            a.experience-link {
+                &:after {
+                    content: 'experience';
                 }
             }
 
