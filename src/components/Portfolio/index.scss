@@ -26,7 +26,7 @@
         border-radius: 10px;
         border: 2px solid #81737B;
         max-width: calc(25% - 10px);
-    
+
         .portfolio-image {
             position: absolute;
             z-index: 2;
@@ -42,11 +42,9 @@
             z-index: 3;
             padding: 10px 20px;
             transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-            background: linear-gradient(
-                180deg,
-                rgba(203, 183, 183, 0) 0,
-                rgb(75, 68, 68, 0.792)
-            );
+            background: linear-gradient(180deg,
+                    rgba(203, 183, 183, 0) 0,
+                    rgb(75, 68, 68, 0.792));
             bottom: -70px;
         }
 

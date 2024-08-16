@@ -27,18 +27,18 @@ const Sidebar = () => (
 
         <ul>
             <li>
-                <a 
+                <a
                     target="_blank"
-                    rel="noreferrer" 
+                    rel="noreferrer"
                     href="https://www.linkedin.com/in/kristennliu/">
                     <FontAwesomeIcon icon={faLinkedin} color="#B991A3" />
                 </a>
             </li>
 
             <li>
-                <a 
+                <a
                     target="_blank"
-                    rel="noreferrer" 
+                    rel="noreferrer"
                     href="https://github.com/kristenliuu">
                     <FontAwesomeIcon icon={faGithub} color="#B991A3" />
                 </a>
