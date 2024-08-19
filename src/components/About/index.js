@@ -45,7 +45,7 @@ const About = () => {
                         />
                     </h1>
                     <p>
-                        I am a fourth year student at Northeastern University, pursuing a BS in Computer
+                        I am a fourth-year student at Northeastern University, pursuing a BS in Computer
                         Science with a concentration in Artificial Intelligence and a minor in Musical Theatre.
                     </p>
                     <p>

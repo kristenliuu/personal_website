@@ -36,7 +36,7 @@ const Home = () => {
                         {/* <br />
                 web developer */}
                     </h1>
-                    <h2>fourth year computer science student at northeastern university</h2>
+                    <h2>fourth-year computer science student at northeastern university</h2>
                     <a className='flat-button' href="mailto:kristenyliu@gmail.com">contact me!</a>
                 </div>
                 <Logo />
