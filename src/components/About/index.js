@@ -49,13 +49,13 @@ const About = () => {
                         Science with a concentration in Artificial Intelligence and a minor in Musical Theatre.
                     </p>
                     <p>
-                        I am from Palo Alto, California and some of my hobbies include running, singing, learning new instruments, traveling, and baking.
-                        I also love exploring new hiking trails while I travel. I enjoy running for fun, but I also like running in races! I also like
-                        to try out new and fun recipes and bake tasty treats for my friends and family. I used to act in plays and musicals at my local theatre, which
+                        I am from Palo Alto, California, and some of my hobbies include running, singing, learning new instruments, traveling, and baking.
+                        I also love exploring new hiking trails while traveling. I enjoy running for fun, but I also like participating in races! Additionally, I like
+                        trying out new and fun recipes to bake tasty treats for my friends and family. I used to act in plays and musicals at my local theatre, which
                         is where I discovered my love for music and singing.
                     </p>
                     <p>
-                        I have a strong technical background, excellent communication skills, and creative problem-solving skills.
+                        I have a strong technical background, excellent communication skills, and creative problem-solving abilities.
                         I am highly motivated to take on new challenges and make a meaningful contribution in the tech field as I
                         continue to expand my skillset.
                     </p>
