@@ -34,13 +34,13 @@ const Experience = () => {
                     <p>
                         I completed a co-op/internship as a Data Engineering Co-op at Abiomed, part of Johnson & Johnson MedTech. In this position, I developed comprehensive test scripts to
                         validate the functionality and performance of UI elements and managed test cases, requirements and other documentation. I also
-                        enhanced test quality through the implementation of end-to-end testing in Cypress to automate test cases, developed front-end
-                        web-based components using Angular, enhancing the user experience and interface design, and collaborated with cross-functional
+                        enhanced test quality through the implementation of end-to-end testing in Cypress to automate test cases, and developed front-end
+                        web-based components using Angular, enhancing the user experience and interface design. Additionally, I collaborated with cross-functional
                         teams to identify, report, and resolve software defects, enhancing the overall product quality.
                     </p>
                     <p>
                         I was a Teaching Assistant for the undergraduate course Mathematics of Data Models where I taught and clarified concepts for 400+ students in statistics, linear
-                        algebra, and other concepts pertaining to machine learning, evaluated and provided detailed feedback for students’ assignments and assessments weekly, and held
+                        algebra, and other concepts pertaining to machine learning. I also evaluated and provided detailed feedback for students’ assignments and assessments weekly, and held
                         weekly office hour sessions for one-on-one tutoring to aid students in course material. In the upcoming semester, I will be a Teaching Assistant for the course Machine
                         Learning and Data Mining 1.
                     </p>
