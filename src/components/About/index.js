@@ -50,7 +50,7 @@ const About = () => {
                     </p>
                     <p>
                         I am from Palo Alto, California, and some of my hobbies include running, singing, learning new instruments, traveling, and baking.
-                        I also love exploring new hiking trails while traveling. I enjoy running for fun, but I also like participating in races! Additionally, I like
+                        I love exploring new hiking trails while traveling. I enjoy running for fun, but I also like participating in races! Additionally, I like
                         trying out new and fun recipes to bake tasty treats for my friends and family. I used to act in plays and musicals at my local theatre, which
                         is where I discovered my love for music and singing.
                     </p>
