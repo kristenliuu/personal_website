@@ -6,7 +6,7 @@ My Personal Website is hosted through Github Pages.
 
 I used the following video to help guide me through the process: https://www.youtube.com/watch?v=bmpI252DmiI. 
 
-## overview:
+## Overview:
 
 The website includes a 'home' page, 'about' page, 'experience' page, and 'portfolio' page. The video helped me establish a template and a good starting point for me to further customize and expand on. I decided to add a new 'experience' page to separate contents for a cleaner read and divide between subjects. I personalized and carefully curated the website's theme by hand-drawing graphics and selecting a color scheme. The website also features a 'sidebar' for site navigation and a 'loader' that appears between pages.
 
