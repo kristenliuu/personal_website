@@ -1,5 +1,5 @@
 // import { Link } from 'react-router-dom';
-import LogoTitle from '../../assets/images/logo-k.png';
+import LogoTitle from '../../assets/images/logo-K.png';
 import './index.scss';
 import { useEffect, useState } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
@@ -36,7 +36,7 @@ const Home = () => {
                         {/* <br />
                 web developer */}
                     </h1>
-                    <h2>fourth-year computer science student at northeastern university</h2>
+                    <h2>Computer Science B.S. from Northeastern University</h2>
                     <a className='flat-button' href="mailto:kristenyliu@gmail.com">contact me!</a>
                 </div>
                 <Logo />

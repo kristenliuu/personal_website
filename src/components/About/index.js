@@ -45,19 +45,23 @@ const About = () => {
                         />
                     </h1>
                     <p>
-                        I am a fourth-year student at Northeastern University, pursuing a BS in Computer
+                        I am a recent graduate from Northeastern University with a BS in Computer
                         Science with a concentration in Artificial Intelligence and a minor in Musical Theatre.
+                        Originally from Palo Alto, I love discovering new hiking trails in Hawaii, running in races 
+                        with my friends, and learning to play new instruments like the guitar and oboe. 
+
                     </p>
                     <p>
-                        I am from Palo Alto, California, and some of my hobbies include running, singing, learning new instruments, traveling, and baking.
-                        I also love exploring new hiking trails while traveling. I enjoy running for fun, but I also like participating in races! Additionally, I like
-                        trying out new and fun recipes to bake tasty treats for my friends and family. I used to act in plays and musicals at my local theatre, which
-                        is where I discovered my love for music and singing.
-                    </p>
-                    <p>
-                        I have a strong technical background, excellent communication skills, and creative problem-solving abilities.
-                        I am highly motivated to take on new challenges and make a meaningful contribution in the tech field as I
-                        continue to expand my skillset.
+                        My passion for musical theatre and singing began when I performed in musicals at my local 
+                        theater, and these experiences extended into becoming a musical theatre minor in college. 
+                        Performing has taught me the importance of collaboration, adaptability, and connecting with the 
+                        audience, which are aspects that translate into my technical work. Similarly, in my technical 
+                        projects, I focus a lot on the attention to detail in ensuring the code I write is comprehensive, 
+                        efficient, and logically structured. This translates onto the stage, as it is important to perfect 
+                        each scene and timing cue. I enjoy combining technical precision with creative innovation. Whether 
+                        working on a difficult coding project or performing on the stage, I am enthusiastic about and dedicated 
+                        to everything I do. 
+
                     </p>
                 </div>
 

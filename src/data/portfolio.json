@@ -1,6 +1,30 @@
 {
     "portfolio": [
         {
+            "cover": "",
+            "title": "Sustainable Systems",
+            "description": "Python",
+            "url": "https://github.com/kristenliuu/ds4420_final_project"
+        },
+        {
+            "cover": "",
+            "title": "CodeQuest",
+            "description": "TypeScript, React, CSS",
+            "url": "https://github.com/neu-cs4530/fall24-team-project-group-206"
+        },
+        {
+            "cover": "",
+            "title": "Connect 4 AI",
+            "description": "Python",
+            "url": "https://github.com/kristenliuu/connect4_ai"
+        },
+        {
+            "cover": "/personal_website/portfolio/personal_web.png",
+            "title": "Personal Website",
+            "description": "JavaScript, React, CSS",
+            "url": "https://github.com/kristenliuu/personal_website"
+        },
+        {
             "cover": "/personal_website/portfolio/marble_s.png",
             "title": "Marble Solitaire",
             "description": "Java",
@@ -17,12 +41,6 @@
             "title": "Password Generator",
             "description": "Python",
             "url": "https://github.com/kristenliuu/coursework_projects/tree/main/password_generator"
-        },
-        {
-            "cover": "/personal_website/portfolio/personal_web.png",
-            "title": "Personal Website",
-            "description": "React, CSS",
-            "url": "https://github.com/kristenliuu/personal_website"
         }
     ]
 }

@@ -28,26 +28,24 @@ const Experience = () => {
                     </h1>
                     <p>
                         At Northeastern University, I have completed the following relevant courses:
-                        Machine Learning and Data Mining 1, Object-Oriented Design, Algorithms and Data, Theory of Computation,
-                        Computer Systems, Mathematics of Data Models, Database Design, Foundations of Cybersecurity.
+                        Machine Learning and Data Mining 1 and 2, Software Engineering, Object-Oriented Design, Algorithms and Data, Theory of Computation,
+                        Computer Systems, Mathematics of Data Models, Database Design.
                     </p>
                     <p>
-                        I completed a co-op/internship as a Data Engineering Co-op at Abiomed, part of Johnson & Johnson MedTech. In this position, I developed comprehensive test scripts to
+                        I completed a co-op/internship as a Data Engineering Co-op at Johnson & Johnson MedTech. In this position, I developed comprehensive test scripts to
                         validate the functionality and performance of UI elements and managed test cases, requirements and other documentation. I also
                         enhanced test quality through the implementation of end-to-end testing in Cypress to automate test cases, and developed front-end
                         web-based components using Angular, enhancing the user experience and interface design. Additionally, I collaborated with cross-functional
                         teams to identify, report, and resolve software defects, enhancing the overall product quality.
                     </p>
                     <p>
-                        I was a Teaching Assistant for the undergraduate course Mathematics of Data Models where I taught and clarified concepts for 400+ students in statistics, linear
+                        I was a Teaching Assistant for the undergraduate courses Mathematics of Data Models, Machine Learning and Data Mining 1. I taught and clarified concepts for 400+ students in statistics, linear
                         algebra, and other concepts pertaining to machine learning. I also evaluated and provided detailed feedback for students’ assignments and assessments weekly, and held
-                        weekly office hour sessions for one-on-one tutoring to aid students in course material. In the upcoming semester, I will be a Teaching Assistant for the course Machine
-                        Learning and Data Mining 1.
+                        weekly office hour sessions for one-on-one tutoring to aid students in course material.
                     </p>
                     <p>
-                        Through my coursework and previous experiences, I am proficient in Java, Python, JavaScript, Angular,
-                        Assembly, C, Git, Latex, and Racket. Through the process of creating this website, I am learning
-                        React and CSS.
+                        From my coursework and previous experiences, I am proficient in the following languages: Java, Python, JavaScript, TypeScript, Assembly, SQL, C, R, HTML, CSS, Racket.
+                        I am also proficient in the following tools/technologies: Angular, Git, React, Latex, Cypress, MongoDB, Jupyter Notebook, Eclipse, IntelliJ, VSCode, DrRacket.
                     </p>
                 </div>
 
