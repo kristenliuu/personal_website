@@ -1,19 +1,19 @@
 {
     "portfolio": [
         {
-            "cover": "",
+            "cover": "/personal_website/portfolio/sustainable.png",
             "title": "Sustainable Systems",
             "description": "Python",
             "url": "https://github.com/kristenliuu/ds4420_final_project"
         },
         {
-            "cover": "",
+            "cover": "/personal_website/portfolio/codequest.png",
             "title": "CodeQuest",
             "description": "TypeScript, React, CSS",
             "url": "https://github.com/neu-cs4530/fall24-team-project-group-206"
         },
         {
-            "cover": "",
+            "cover": "/personal_website/portfolio/connect4.png",
             "title": "Connect 4 AI",
             "description": "Python",
             "url": "https://github.com/kristenliuu/connect4_ai"
